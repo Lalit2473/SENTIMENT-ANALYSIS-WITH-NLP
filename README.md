@@ -100,7 +100,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 Input:
 
 ```
-I absolutely loved the movie! It was fantastic and inspiring.
+The movie was absolutely fantastic and emotionally powerful!
 ```
 
 Output:
