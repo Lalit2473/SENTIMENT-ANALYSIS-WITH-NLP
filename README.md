@@ -115,10 +115,11 @@ Positive
 * **Confusion Matrix**:
 
   ```
+  \[\[165  51]
+  \[ 25 159]]
   ```
 
-\[\[165  51]
-\[ 25 159]]
+
 
 ```
 - **Precision/Recall**:
