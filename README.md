@@ -115,32 +115,30 @@ Positive
 * **Confusion Matrix**:
 
   ```
-  \[\[165  51]
-  \[ 25 159]]
+  [[165  51]
+   [ 25 159]]
   ```
+* **Precision/Recall**:
 
-
-
-```
-- **Precision/Recall**:
-- Precision (positive): 0.76
-- Recall (positive): 0.86
-- F1-score (positive): 0.81
+  * Precision (positive): 0.76
+  * Recall (positive): 0.86
+  * F1-score (positive): 0.81
 
 ## 🚀 Future Work
-- Use advanced NLP methods (lemmatization, POS tagging)
-- Integrate deep learning models (e.g., BERT)
-- Deploy app on cloud platforms like Heroku or AWS
-- Allow batch review uploads for sentiment analysis
+
+* Use advanced NLP methods (lemmatization, POS tagging)
+* Integrate deep learning models (e.g., BERT)
+* Deploy app on cloud platforms like Heroku or AWS
+* Allow batch review uploads for sentiment analysis
 
 ## 📖 License
+
 This project is open-source and free to use under the MIT License.
 
 ---
 
 Made with ❤️ using Python and Flask.
 
-```
 
 # Output
 ![image](https://github.com/user-attachments/assets/a8fdbcb5-06ee-4caa-bd37-54a16310fa7d)
