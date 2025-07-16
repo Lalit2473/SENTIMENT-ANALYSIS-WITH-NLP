@@ -1,17 +1,3 @@
-# SENTIMENT-ANALYSIS-WITH-NLP
-
-**Company:** Codtech It Solutions
-
-**Name:** Lalit Kumar
-
-**Intern Id:** CT4MWZ33
-
-**Domain:** Machine Learning
-
-**Duration:** 16 Weeeks
-
-**Mentor:** Neela Santhosh Kumar
-
 # Sentiment Analysis with NLP and Flask Web App
 
 ## 🎜️ Overview
